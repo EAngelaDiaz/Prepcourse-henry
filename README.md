@@ -1,2 +1,1 @@
-# Prepcourse-henry
-Este es un repositorio de prueba del módulo 2 del prepcourse
+Este es un modelo de prueba del modulo 2 donde armamos un repositorio en github y lo sincronizamos con un repositorio local.
